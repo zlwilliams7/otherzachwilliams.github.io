@@ -1,1 +1,1 @@
-Sitemap: https://piazzai.github.io/cvless/sitemap.xml
+Sitemap: sitemap.xml
